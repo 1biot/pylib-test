@@ -1,0 +1,19 @@
+{
+    "urls": [
+        [
+            "mqtt_topic_callback/__init__.py",
+            "github:1biot/pylib-test/mqtt_topic_callback/__init__.py"
+        ],
+        [
+            "mqtt_topic_callback/events.py",
+            "github:1biot/pylib-test/mqtt_topic_callback/events.py"
+        ],
+        [
+            "mqtt_topic_callback/mqtt.py",
+            "github:1biot/pylib-test/mqtt_topic_callback/mqtt.py"
+        ]
+    ],
+    "deps": [
+    ],
+    "version": "1.0.0"
+}
